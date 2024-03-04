@@ -6,9 +6,4 @@
 
 <img src="screen.gif"/>
 
-
-# JSMediaPlayer
-# JS-Media-Player
-# JS-Media-Player
-# JS-Media-Player
-# jspro2
+# JsPro2MediaPlayer
